@@ -1,3 +1,6 @@
+# Maetala Scientist 
+MaetalaScentist adalah nama Team yang kami berikan untuk mengikuti Kompetisi Data Science - From Data to Decisions: Data Science and AI Solutions for Real-World Issues, yang di sengarakan oleh KOMINFO dengan mitra Starcore Analytics, kami mengambil isu lingkungan, nama penelitian kamu JavaQuake Inside
+
 # JavaQuake Inside
 
 **JavaQuake Inside** adalah sebuah proyek inovatif yang bertujuan untuk mengembangkan platform pemantauan dan analisis gempa bumi di Pulau Jawa. Proyek ini dirancang untuk membantu masyarakat, pemerintah, dan institusi terkait dalam memahami pola gempa bumi serta meningkatkan kesiapsiagaan terhadap bencana.
@@ -35,18 +38,16 @@ Pulau Jawa merupakan salah satu wilayah di Indonesia yang rawan gempa bumi karen
 
 ## Anggota Tim
 
-| Nama                   | Peran              | Tanggung Jawab                                                                 |
-|------------------------|--------------------|-------------------------------------------------------------------------------|
-| **Lutfi Julpian**      | Data Scientist     | Pengumpulan data, analisis data seismik, dan pengembangan model Machine Learning. |
-| **Mohammad Faikar Natsir** | Software Engineer | Integrasi sistem pemantauan real-time dan pengembangan backend untuk dashboard. |
-| **Rizka Amanda**       | UI/UX Designer     | Merancang antarmuka dashboard yang intuitif dan user-friendly.                 |
-| **Andika Pratama**     | DevOps Engineer    | Menjamin ketersediaan sistem dan deployment aplikasi di cloud.                |
-| **Siti Nur Aisyah**    | Project Manager    | Mengelola timeline proyek, memastikan komunikasi yang efektif, dan menjamin pencapaian target. |
+| Nama                   | Peran              |
+|------------------------|--------------------|
+| **Lutfi Julpian**      | Visualisasi     |
+| **Mohammad Faikar Natsir** | Project Leader | 
+| **Fedro Rikiyana Padila**       | Analyst |              
+| **Arif Muhammad Rifai**     | Modelling |
 
-## Progres dan Rencana Ke Depan
-- **Tahap 1 (Selesai):** Pengumpulan data seismik historis dan pembuatan prototipe awal dashboard.  
-- **Tahap 2 (Berjalan):** Implementasi algoritma Machine Learning untuk prediksi gempa.  
-- **Tahap 3 (Rencana):** Uji coba sistem di beberapa wilayah Pulau Jawa dan peluncuran aplikasi beta.
 
 ---
 **JavaQuake Inside** diharapkan menjadi kontribusi besar dalam mitigasi bencana di Indonesia, khususnya untuk gempa bumi di Pulau Jawa. Proyek ini juga mencerminkan visi Maetala Scientist dalam menggunakan teknologi untuk kebaikan bersama.
+
+# Link Demo
+https://maetalascientist-javaquake.streamlit.app/
